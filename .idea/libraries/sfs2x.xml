@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sfs2x">
+    <CLASSES>
+      <root url="jar://C:/SmartFoxServer_2X/SFS2X/lib/sfs2x.jar!/" />
+      <root url="jar://C:/SmartFoxServer_2X/SFS2X/lib/sfs2x-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
